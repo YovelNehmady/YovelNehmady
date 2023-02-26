@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **yovelnehmady1998@gmail.com**
 
-- ✨Fun fact **I love to cook, bake and eat🥐.**
+- ✨Fun fact **I love to cook, bake and eat 🥐**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

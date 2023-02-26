@@ -1,11 +1,17 @@
 <h1 align="center">Hi 👋, I'm Yovel Nehmady</h1>
-<h3 align="center">A passionate Fullstack developer from Israel</h3>
+<h3 align="center">A passionate Full-Stack developer from Israel</h3>
+
+- 🔭 A people's person and a tech lover. Autodidact, ambitious, and a team player !
 
 - 🌱 I’m currently learning **React with TypeScript**
 
-- 💬 Ask me about **React, Angular**
+- 👀 I’m looking for Full-stack developer and react developer roles
+
+- 💬 Ask me about **React, Angular and Vue**
 
 - 📫 How to reach me **yovelnehmady1998@gmail.com**
+
+- ✨Fun fact **I love to cook, bake and eat🥐.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

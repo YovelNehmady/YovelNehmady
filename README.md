@@ -3,7 +3,7 @@
 
 - 🔭 A people's person and a tech lover. Autodidact, ambitious, and a team player **!**
 
-- 🌱 I’m currently learning **React with TypeScript**
+- 🌱 I’m currently learning **React Native**
 
 - 👀 I’m looking for Full-stack developer **and react developer roles.**
 

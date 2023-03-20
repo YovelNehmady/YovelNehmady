@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yovel Nehmady</h1>
 <h3 align="center">A passionate Full-Stack developer from Israel</h3>
 
-- 🔭 A people's person and a tech lover. Autodidact, ambitious, and a team player**!**
+- 🔭 A people's person and a tech lover. Autodidact, ambitious, and a team player **!**
 
 - 🌱 I’m currently learning **React Native**
 
